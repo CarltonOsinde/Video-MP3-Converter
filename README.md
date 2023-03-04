@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CarltonOsinde/Video-MP3-Converter">
-    <img src="assests/VideoMP3Converter.png" alt="Logo" width="80" height="80">
+    <img src="assets/VideoMP3Converter.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Video To MP3 Converter</h3>
