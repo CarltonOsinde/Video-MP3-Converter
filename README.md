@@ -51,8 +51,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/CarltonOsinde/Video-MP3-Converter/assets/product_screenshot.png)
 <a href="https://github.com/CarltonOsinde/Video-MP3-Converter">
     <img src="assets/product_screenshot.png" alt="Product Screenshot" align="center">
 </a>
