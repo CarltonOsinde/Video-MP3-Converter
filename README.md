@@ -148,7 +148,7 @@ Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [LinkedIn](https://linkedin/in/carltonosinde/) - [Email](carltonosinde@gmail.com)
+Carlton Oisnde - [LinkedIn](https://linkedin/in/carltonosinde/) - [Email](carltonosinde@gmail.com)
 
 Project Link: [https://github.com/CarltonOsinde/Video-MP3-Converter](https://github.com/CarltonOsinde/Video-MP3-Converter)
 
