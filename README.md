@@ -54,7 +54,7 @@
     <img src="assets/product_screenshot.png" alt="Product Screenshot">
 </a>
 
-This is a microservices architecture and distributed systems project that takes in a video input and converts the video to MP3 then emails you the MP3. It is built using Python, Kubernetes, RabbitMQ, MongoDB, and MySQL.
+This is a microservices architecture and distributed systems project that takes in a video input and converts the video to MP3 then emails you the MP3.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,7 +67,6 @@ This is a microservices architecture and distributed systems project that takes 
 * RabbitMQ
 * MongoDB
 * MySQL
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
