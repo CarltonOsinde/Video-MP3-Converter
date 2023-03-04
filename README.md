@@ -42,7 +42,6 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -54,10 +53,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/CarltonOsinde/Video-MP3-Converter/assets/product_screenshot.png)
 <a href="https://github.com/CarltonOsinde/Video-MP3-Converter">
-    <img src="assets/product_screenshot.png" alt="Product Screenshot" width="150" height="150">
+    <img src="assets/product_screenshot.png" alt="Product Screenshot">
 </a>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `carltonosinde`, `carltonosinde@gmail.com`, `email`, `project_title`, `project_description`
+This is a microservices architecture and distributed systems project that takes in a video input and converts the video to MP3 then emails you the MP3. It is built using Python, Kubernetes, RabbitMQ, MongoDB, and MySQL.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,12 +64,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Python][Python.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
+* [![Python]Python.org][Python-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
