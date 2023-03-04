@@ -50,10 +50,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://github.com/CarltonOsinde/Video-MP3-Converter/assets/product_screenshot.png)
 <a href="https://github.com/CarltonOsinde/Video-MP3-Converter">
-    <img src="assets/product_screenshot.png" alt="Product Screenshot">
+    <img src="assets/product_screenshot.png" alt="Product Screenshot" width="150" height="150">
 </a>
 
 This is a microservices architecture and distributed systems project that takes in a video input and converts the video to MP3 then emails you the MP3. It is built using Python, Kubernetes, RabbitMQ, MongoDB, and MySQL.
