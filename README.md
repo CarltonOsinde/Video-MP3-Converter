@@ -55,7 +55,7 @@
     <img src="assets/product_screenshot.png" alt="Product Screenshot" align="center">
 </a>
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `carltonosinde`, `carltonosinde@gmail.com`, `email`, `project_title`, `project_description`
+This is a microservices architecture and distributed systems project that takes in a video input and converts the video to MP3 then emails you the MP3. It is built using Python, Kubernetes, RabbitMQ, MongoDB, and MySQL.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
