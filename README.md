@@ -54,7 +54,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/CarltonOsinde/Video-MP3-Converter/assets/product_screenshot.png)
 <a href="https://github.com/CarltonOsinde/Video-MP3-Converter">
-    <img src="assets/VideoMP3Converter.png" alt="Logo" width="80" height="80">
+    <img src="assets/product_screenshot.png" alt="Product Screenshot">
   </a>
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `carltonosinde`, `carltonosinde@gmail.com`, `email`, `project_title`, `project_description`
