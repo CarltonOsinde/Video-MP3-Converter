@@ -65,7 +65,8 @@ This is a microservices architecture and distributed systems project that takes 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-* [![MongoDB][mongodb.com][MongoDB-url]]
+* [![MongoDB][mongodb.com][MongoDB-url]
+* [![MongoDB][mongodb.com]][MongoDB-url]
 * 
 
 
