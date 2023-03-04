@@ -65,6 +65,9 @@ This is a microservices architecture and distributed systems project that takes 
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+* [![MongoDB][https://www.mongodb.com/][MongoDB-url]
+* 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,3 +182,4 @@ Project Link: [https://github.com/CarltonOsinde/Video-MP3-Converter](https://git
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[MongoDB-url]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
