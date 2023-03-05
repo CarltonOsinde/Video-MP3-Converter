@@ -56,7 +56,6 @@
 
 This is a microservices architecture and distributed systems project that takes in a video input and converts the video to MP3 then emails you the MP3.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -68,14 +67,14 @@ This is a microservices architecture and distributed systems project that takes 
 * MongoDB
 * MySQL
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 ## Demo
 
 Screenshots, code examples and demos will be added in this space. Stay tuned.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- GETTING STARTED -->
@@ -105,9 +104,6 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Good to code!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 <!-- CONTRIBUTING -->
@@ -124,7 +120,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
@@ -132,7 +127,7 @@ Don't forget to give the project a star! Thanks again!
 
  [LinkedIn](https://linkedin/in/carltonosinde/) - [Email](carltonosinde@gmail.com) - [Website](https://carltonosinde.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -143,39 +138,4 @@ Don't forget to give the project a star! Thanks again!
 * []()
 * []()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 -->
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/CarltonOsinde/Video-MP3-Converter.svg?style=for-the-badge
-[contributors-url]: https://github.com/CarltonOsinde/Video-MP3-Converter/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CarltonOsinde/Video-MP3-Converter.svg?style=for-the-badge
-[forks-url]: https://github.com/CarltonOsinde/Video-MP3-Converter/network/members
-[stars-shield]: https://img.shields.io/github/stars/CarltonOsinde/Video-MP3-Converter.svg?style=for-the-badge
-[stars-url]: https://github.com/CarltonOsinde/Video-MP3-Converter/stargazers
-[issues-shield]: https://img.shields.io/github/issues/CarltonOsinde/Video-MP3-Converter.svg?style=for-the-badge
-[issues-url]: https://github.com/CarltonOsinde/Video-MP3-Converter/issues
-[license-shield]: https://img.shields.io/github/license/CarltonOsinde/Video-MP3-Converter.svg?style=for-the-badge
-[license-url]: https://github.com/CarltonOsinde/Video-MP3-Converter/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/carltonosinde
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
-[MongoDB-url]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
