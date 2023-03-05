@@ -73,9 +73,7 @@ This is a microservices architecture and distributed systems project that takes 
 <!-- USAGE EXAMPLES -->
 ## Demo
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Screenshots, code examples and demos will be added in this space. Stay tuned.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,6 +103,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+4. Good to code!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,9 +130,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Carlton Oisnde - [LinkedIn](https://linkedin/in/carltonosinde/) - [Email](carltonosinde@gmail.com)
-
-Project Link: [https://github.com/CarltonOsinde/Video-MP3-Converter](https://github.com/CarltonOsinde/Video-MP3-Converter)
+ [LinkedIn](https://linkedin/in/carltonosinde/) - [Email](carltonosinde@gmail.com) - [Website](https://carltonosinde.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
