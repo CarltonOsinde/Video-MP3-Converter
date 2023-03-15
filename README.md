@@ -9,7 +9,7 @@
 <h3 align="center">Video To MP3 Converter</h3>
 
   <p align="center">
-    A Video to MP3 converter that is built on a Microservice architecture and Docker image deployed on Kubernetes cluster.
+    A Video to MP3 converter that is built on a Microservice architecture & Docker image deployed on Kubernetes cluster.
     <br />
     <a href="https://github.com/CarltonOsinde/Video-MP3-Converter"><strong>Explore the docs »</strong></a>
     <br />
